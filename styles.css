@@ -4,3 +4,67 @@ header h1{
     padding: 10px;
     color:brown;
 }
+.midle{
+   padding: 1rem;
+
+}
+.title{
+    text-align: center;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 26%;
+    height: 60vh;
+}
+.add{
+    text-align: center;
+}
+.Brands{
+     padding-left: 8rem;
+}
+.container{
+    padding-left: 5rem;
+}
+.list{
+    padding-left: 7rem;
+}
+.choice{
+    padding-left: 5rem;
+}
+.lists{
+    padding-left: 6rem;
+}
+.model{
+    padding-left: 5rem;
+    padding-top: 2rem;
+}
+.model1{
+    padding-left: 6rem;
+    padding-top: 1rem;
+}
+.model2{
+    padding-left: 5rem;
+    padding-top: 2rem;
+}
+.model3{
+    padding-left: 6rem;
+    padding-top: 1rem;
+    
+}
+.model4{
+    padding-left: 5rem;
+    padding-top: 3rem;
+}
+.model5{
+padding-left: 6rem;
+padding-top:  0rem;
+}
+.model6{
+    padding-left: 5rem;
+    padding-top: 2rem;
+}
+.model7{
+    padding-left: 6rem;
+}
