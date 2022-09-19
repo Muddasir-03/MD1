@@ -1,13 +1,19 @@
- 
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,600&family=Teko:wght@300&family=Titillium+Web&display=swap');
+body{
+    font-family: 'Kanit', sans-serif;
+font-family: 'Teko', sans-serif;
+font-family: 'Titillium Web', sans-serif;
+
+}
  
 header h1{
     padding: 10px;
     color:brown;
 }
 .midle{
-   padding: 1rem;
-
-}
+    padding: 1rem;
+ 
+ }
 .title{
     text-align: center;
 }
@@ -22,49 +28,70 @@ img {
     text-align: center;
 }
 .Brands{
-     padding-left: 8rem;
+     padding-left: 2rem;
 }
 .container{
-    padding-left: 5rem;
+    padding-left: 2rem;
 }
 .list{
-    padding-left: 7rem;
+    padding-left: 3rem;
 }
 .choice{
-    padding-left: 5rem;
+    padding-left: 2rem;
 }
 .lists{
-    padding-left: 6rem;
+    padding-left: 2rem;
 }
 .model{
-    padding-left: 5rem;
+    padding-left: 2rem;
     padding-top: 2rem;
 }
 .model1{
-    padding-left: 6rem;
+    padding-left: 2rem;
     padding-top: 1rem;
 }
 .model2{
-    padding-left: 5rem;
+    padding-left: 2rem;
     padding-top: 2rem;
 }
 .model3{
-    padding-left: 6rem;
+    padding-left: 2rem;
     padding-top: 1rem;
     
 }
 .model4{
-    padding-left: 5rem;
+    padding-left: 2rem;
     padding-top: 3rem;
 }
 .model5{
-padding-left: 6rem;
-padding-top:  0rem;
+padding-left: 2rem;
+padding-top:  1rem;
 }
 .model6{
-    padding-left: 5rem;
+    padding-left: 2rem;
     padding-top: 2rem;
 }
 .model7{
-    padding-left: 6rem;
+    padding-left: 2rem;
+}
+.footer{
+    width: 100%;
+    color:white;
+    background-color:black;
+}
+.footer .foot1{
+    padding: 1rem;
+    
+    
+    text-align: center;
+    font-size: large;
+}
+
+h5{
+    color:aqua;
+    padding-left: 1rem;
+}
+h3 a{
+    color:darkviolet;
+    /* text-decoration: none; */
 }
