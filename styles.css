@@ -95,3 +95,49 @@ h3 a{
     color:darkviolet;
     /* text-decoration: none; */
 }
+.list-non-bullet li a{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+
+   
+}
+.header .list-non-bullet {
+    margin-top: 32px; 
+}
+.list-item-inline{
+    display: inline;
+    padding: 1rem;
+    
+    
+}
+
+.img1 img{
+    width: 82px;
+    height: 92px;
+}
+.header{
+    display: flex;
+
+}
+.title{
+     color:brown;
+     padding-left: 1rem;
+     padding-top: 1rem;
+     margin-top: 17px;
+}
+section{
+    background-color:black;
+
+}
+.search{
+    width: 200px;
+    height:50px;
+    margin-top: 22px;
+    margin-left: 300px; 
+    
+}
+.search1{
+    height:50px;
+    width: 50px;
+}
