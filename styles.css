@@ -98,7 +98,7 @@ h3 a{
 .list-non-bullet li a{
     list-style: none;
     text-decoration: none;
-    color: white;
+    color:white;
 
    
 }
@@ -113,31 +113,49 @@ h3 a{
 }
 
 .img1 img{
-    width: 82px;
-    height: 92px;
+    width: 85px;
+    height: 84px;
+    margin-top:5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    
+  
 }
+
 .header{
     display: flex;
 
 }
 .title{
-     color:brown;
+     color:white;
      padding-left: 1rem;
      padding-top: 1rem;
      margin-top: 17px;
 }
 section{
-    background-color:black;
+    background-color:seagreen;
 
 }
 .search{
     width: 200px;
     height:50px;
     margin-top: 22px;
-    margin-left: 300px; 
+    margin-left: 20%;
     
 }
 .search1{
     height:50px;
     width: 50px;
+    margin-top:22px ;
+}
+.icons{
+    display: flex;
+    margin-top: 33px;
+   
+}
+.icons i  {
+ font-size: 25px;
+ width: 55px;
+ margin-left: 10px;
+ color:white;
 }
